@@ -1,1 +1,1 @@
-收拾收拾收拾收拾书
+select * from dual;
